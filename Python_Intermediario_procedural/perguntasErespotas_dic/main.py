@@ -2,7 +2,6 @@
 perguntas = {
 
     "Pergunta 1": {
-        #pv
         "pergunta": "Quanto é 2+2?",
         "respostas": {"a": "1", "b": "4" ,"c": "5"},
         "resposta_certa": "b",
